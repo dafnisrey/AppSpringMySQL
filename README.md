@@ -4,7 +4,7 @@
 
 He realizado esta aplicación con el propósito principal de **aprender y poner en práctica conocimientos de Spring**. Esto no significa que la aplicación no sea plenamente funcional.
 
-La aplicación interactúa con la base de datos **Sakila**. Se trata de una base de datos totalmente libre que se puede usar en diferentes tipos de bases de datos. Para esta APP he decidido usarla en MySQL. La base de datos contiene 16 tablas relacionadas entre sí, lo que la convierte en una buena base de datos para este tipo de práctica.
+La aplicación interactúa con la base de datos **Sakila**. Se trata de una base de datos totalmente libre que se puede usar en diferentes plataformas (Sqlite, Mysql, Mongo, Postgre...). Para esta APP he decidido usarla en MySQL. La base de datos contiene 16 tablas relacionadas entre sí, lo que la convierte en una buena base de datos para este tipo de práctica.
 
 
 ## Seguridad:
